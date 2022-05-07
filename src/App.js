@@ -1,4 +1,4 @@
-import "./App.css";
+// import "./App.css";
 import image from "./assets/construction.gif";
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
             href="https://github.com/106joshman"
             target="_blank"
             rel="noopener noreferrer"
-            className=" text-blue-700"
+            className=""
           >
             Dev-Guy
           </a>
