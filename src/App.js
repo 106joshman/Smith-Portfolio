@@ -8,7 +8,7 @@ function App() {
         <div className="img mx-auto w-3/5">
           <img src={image} alt="" srcset="" className=" w-full" />
         </div>
-        <h1 className="text-center text-4xl font-bold">Smith O.J</h1>
+        <h1 className="text-center text-8xl font-bold">Smith O.J</h1>
         <p className="text-center">This site is still under construction</p>
         <p className="text-center text-xs">
           This site is been developed by{" "}
