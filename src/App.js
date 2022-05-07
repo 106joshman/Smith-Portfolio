@@ -16,7 +16,7 @@ function App() {
             href="https://github.com/106joshman"
             target="_blank"
             rel="noopener noreferrer"
-            className=""
+            className=" text-blue-700"
           >
             Dev-Guy
           </a>
